@@ -1,1 +1,2 @@
-print('Probando tags')
+print('Probando tags ')
+print('Corrección usando stash')
